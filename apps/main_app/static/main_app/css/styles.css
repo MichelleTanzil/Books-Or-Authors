@@ -1,0 +1,30 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+form{
+  display: inline-block;
+  margin-left: 10%; 
+}
+
+#table-overwrite{
+  display: inline-block;
+  width: 25%; 
+  margin-left: 25%; 
+}
+
+#table-overwrite2{
+  display: inline-block;
+  width: 25%; 
+  margin-left: 25%; 
+}
+
+.text-center {
+  text-align: center;
+}
+
+.btn{
+  margin-top: 20px; 
+}
